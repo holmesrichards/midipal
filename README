@@ -22,3 +22,7 @@ A midi in, a midi out, a small display, an encoder ; 20 awesome features:
 * Slave start/stop synchronizer (à la Mungo Sync)
 * Scale processor / harmonizer
 * Ear training game
+
+Forked from pichenettes' version and identical except:
+- Eagle brd and sch files converted to XML (making possible import into KiCad)
+
